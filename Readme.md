@@ -45,7 +45,7 @@ You can also check <a href="https://mouhadiouf.com/" target="_blank"> my portfol
 
 ## Contributing
 
-1. Fork it (https://github.com/MouhaDiouf/mastermind)
+1. Fork it (https://github.com/MouhaDiouf/hangman)
 2. Create your feature branch (git checkout -b feature/[choose-a-name])
 3. Commit your changes (git commit -am 'What this commit will fix/add')
 4. Push to the branch (git push origin feature/[chosen name])
